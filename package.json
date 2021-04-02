@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zhoajiann/taskBook/issues"
   },
-  "homepage": "https://github.com/zhoajiann/taskBook#readme"
+  "homepage": "https://github.com/zhoajiann/taskBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
